@@ -1,5 +1,5 @@
 import { useState } from "react"
-import Start from "./Start"
+import Start from "./start"
 
 export default function Survey() {
     
